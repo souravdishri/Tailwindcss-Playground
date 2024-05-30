@@ -8,7 +8,7 @@ function App() {
     <>
     <h1 className='text-cyan-600 text-4xl '>Hello React! | Tailwind CSS </h1>
 
-    <h2 className='text-white text-2xl m' >For Equal</h2>
+    <h2 className='text-white text-2xl m-4' >For Equal</h2>
     <div className='grid gap-4 m-4 sm:grid-cols-2 grid-cols-2' >
       <div className='bg-green-600 rounded-xl shadow-xl min-h-[100px] '></div>
       <div className='bg-teal-600 rounded-xl shadow-xl min-h-[100px] '></div>
